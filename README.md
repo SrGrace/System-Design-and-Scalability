@@ -21,7 +21,7 @@
 
 ## Algorithms that Scale: Step-By-Step
 
-* Step 1 : Ask Questions
+* Step 1: Ask Questions
 * Step 2: Make Believe
 * Step 3: Get Real
 * Step 4: Solve Problems
